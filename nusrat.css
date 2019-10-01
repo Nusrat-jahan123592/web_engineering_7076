@@ -1,0 +1,63 @@
+.body {
+	background: lightgrey;
+	width: 100%;
+
+}
+
+
+
+.header{
+	width: 100%;
+	overflow: none;
+
+
+}
+.about{
+    width:100%;
+        text-align: center;
+
+}
+.pic{
+	width:100%;
+  text-align: center;
+
+}
+.pic img {
+	height: 150px;
+	width: 150px;
+	border-radius: 50%;
+	
+}
+.contnet {
+	width: 100%;
+	overflow: none; 
+	box-sizing: border-box;
+}
+.left {
+	width: 20%;
+	float: left;
+	background: #F0F8FF;
+   margin:10px;
+   padding:10px;
+
+
+}
+.center{
+width: 40%;
+float:left;
+	background: #F0F8FF;
+    text-align: center;
+    margin: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+.right{
+	width: 25%;
+	float: left;
+		background: #F0F8FF;
+		margin: 10px;
+		padding-left: 10px;
+
+
+}
